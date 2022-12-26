@@ -46,8 +46,9 @@ transform: translateX(-50%);
 background: #fff;
 background-image: url(./img/images/Lua-Brilhante-Png.png);
 background-position: center;
+border:  1px solid rgba(rgb(252, 0, 0), .1) ;
+box-shadow: 1px 1px 700px 80px rgb(255, 255, 255);
 
-box-shadow: 1px 1px 500px 40px #fff;
 width: 320px;
 height:320px;
 border-radius: 50%;
@@ -63,7 +64,10 @@ z-index: 1;
     background-repeat: no-repeat;
     background-size: 320px;
     animation: ho-ho 5s ease-out infinite ;
+ 
     
+
+
 
 
 }
